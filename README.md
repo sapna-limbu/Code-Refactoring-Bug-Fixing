@@ -21,7 +21,8 @@ Refactor the existing codebase and ensure the proper functioning of the Note Tak
 •	Added <style> tags in the second HTML code to include CSS styles for better presentation.
 •	Added CSS styles for the <body> and <form> elements to align content vertically and horizontally.
 •	Added <body> tags to enclose the content of the page.
+•	Updated the <form> tag to include an action attribute set to "/" to specify the URL where the form data should be submitted.
 •	Moved the <title> tag to be properly nested within the <head> section.	
 •	Moved the <h1> tag to be directly within the <body> section for the main heading of the page.
 •	Corrected the indentation and spacing within the <form> tag.
-•	Updated the <form> tag to include an action attribute set to "/" to specify the URL where the form data should be submitted.
+
