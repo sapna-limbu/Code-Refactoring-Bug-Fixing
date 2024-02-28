@@ -9,7 +9,8 @@ Task-
 
 Refactor the existing codebase and ensure the proper functioning of the Note Taking Application. Document all identified bugs during the debugging process. Remember, the task is not about recreating the app from scratch. Your goal is to fix the already existing codebase and make the application work as intended.
 
-#Identifying and Correcting Bugs in the Python Code.
+Identifying and Correcting Bugs in the Python Code-
+
 •	Added a methods=["GET", "POST"] argument to the @app.route('/') decorator to allow both GET and POST requests to the home page.
 •	Changed request.args.get("note") to request.form.get("note") to get the note from the form data instead of the query parameters.
 
@@ -17,7 +18,8 @@ Refactor the existing codebase and ensure the proper functioning of the Note Tak
 
 •	Moved the render_template call outside of the, if block to always render the template, even if the request method is GET.
 
-#Identifying and correcting the Bugs in the HTML Code.
+Identifying and correcting the Bugs in the HTML Code-
+
 •	Added <style> tags in the second HTML code to include CSS styles for better presentation.
 •	Added CSS styles for the <body> and <form> elements to align content vertically and horizontally.
 •	Added <body> tags to enclose the content of the page.
