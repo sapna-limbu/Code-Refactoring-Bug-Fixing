@@ -26,8 +26,6 @@ Identifying and correcting the Bugs in the HTML Code-
 
 •	Updated the <form> tag to include an action attribute set to "/" to specify the URL where the form data should be submitted.
 
-•	Moved the <title> tag to be properly nested within the <head> section.	
 
-•	Moved the <h1> tag to be directly within the <body> section for the main heading of the page.
-•	Corrected the indentation and spacing within the <form> tag.
+
 
